@@ -46,7 +46,7 @@ The project is strictly organized into clean architectural layers to support mod
 
 ### Setup Pipeline
 1. Clone the repository to your environment:
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/Msuci.git](https://github.com/BroknSkul/msuci.git)
+   git clone [https://github.com/BroknSkul/msuci.git](https://github.com/BroknSkul/msuci.git)
 
 2.Open the project folder inside Android Studio.
 
